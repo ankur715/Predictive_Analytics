@@ -5,6 +5,8 @@ Projects:
 - Energy Efficiency: Predicting Heating & Cooling Load
 - Position Salary: Truth or Bluff
 - Policy Companies Bankruptcy: Tuning and Predicting  
+- Bank Churn: Neural Network  
+- Loans: Birch Clusterin, KMeans
 
 
 Class Projects:
@@ -12,3 +14,4 @@ Class Projects:
 - non-linear model
 - decision tree
 - confusion matrix
+- CART
