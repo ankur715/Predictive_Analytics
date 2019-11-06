@@ -7,6 +7,7 @@ Projects:
 - Policy Companies Bankruptcy: Tuning and Predicting  
 - Bank Churn: Neural Network  
 - Loans: Birch Clusterin, KMeans
+- Churn: Association Rules
 
 
 Class Projects:
