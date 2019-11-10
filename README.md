@@ -8,6 +8,7 @@ Projects:
 - Bank Churn: Neural Network  
 - Loans: Birch Clusterin, KMeans
 - Churn: Association Rules
+- Clothing Store: Classification Model
 
 
 Class Projects:
