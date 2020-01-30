@@ -6,9 +6,10 @@ Projects:
 - Position Salary: Truth or Bluff
 - Policy Companies Bankruptcy: Tuning and Predicting  
 - Bank Churn: Neural Network  
-- Loans: Birch Clusterin, KMeans
+- Loans: Birch Clustering, KMeans
 - Churn: Association Rules
 - Clothing Store: Classification Model
+- Customer Segmentation, Customer Lifetime Value: Clustering, KMeans
 
 
 Class Projects:
