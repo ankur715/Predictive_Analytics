@@ -1,6 +1,6 @@
 ## Predictive Analytics
 
-Projects:
+[Projects](https://github.com/ankur715/predictive_analytics/tree/master/project):
 - Churn: EDA
 - Energy Efficiency: Predicting Heating & Cooling Load
 - Position Salary: Truth or Bluff
@@ -12,7 +12,7 @@ Projects:
 - Customer Segmentation, Customer Lifetime Value: Clustering, KMeans
 
 
-Class Projects:
+[Class Projects](https://github.com/ankur715/predictive_analytics/tree/master/class):
 - simple lr
 - non-linear model
 - decision tree
