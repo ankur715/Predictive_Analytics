@@ -18,3 +18,7 @@
 - decision tree
 - confusion matrix
 - CART
+
+Languages:
+- Python
+- R
