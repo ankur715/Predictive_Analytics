@@ -10,6 +10,7 @@
 - Churn: Association Rules
 - Clothing Store: Classification Model
 - Customer Segmentation, Customer Lifetime Value: Clustering, KMeans
+- Turnover: EDA, Decision Tree Classifier, Logistic Regression
 
 
 [Class Projects](https://github.com/ankur715/predictive_analytics/tree/master/class):
